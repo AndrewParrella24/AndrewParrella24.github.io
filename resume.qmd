@@ -1,89 +1,66 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andrew Parrella's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andrew Parrella 
+Geologist, College Student, GIS Analyst.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="andrew.finholdt12@gmail.com">andrew.finholdt12@gmail.com</a>
+| <a href="www.linkedin.com/in/andrew-luke-parrella-6604a02b9">My LinkedIn profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Pursuing Bachelor's Degree at Brigham Young University - Idaho
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Petroleum and Environmental Geology / GIS Data Collecting and Analyzing
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Alternative Green Energy, Petroleum Sustainablity, Orogenic Events
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2006-2009, 2012-2013`
+__International School of Alphaville, Brazil__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2009-2012`
+__The American School of Belo Horizonte, Brazil__
 
-- Sizar
+`2013-2014, 2015-2017`
+__Escola Fernao Gaivota - Maple Bear Alphaville, Brazil__
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2014-2015`
+__Colégio Positivo, Brazil__
 
-- Fellow
+`2017-2018`
+__Legacy Preparatory Academy, Utah, USA__
 
+`2018-2021`
+__Graded - The American School of São Paulo, Brazil__
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2024-now`
+__Brigham Young University-Idaho, USA__
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2024`
+__Pre-Arrival Mentor - BYUI__
 
-- Warden
-- Minted coins
+`2024-now`
+__Pre-Arrival Mentor Lead - BYUI__
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2024-2025`
+__Geology 111 Teacher's Assistant - BYUI__
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025 -->
